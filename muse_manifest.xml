@@ -1,0 +1,81 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423900906882">
+  <folder name="css">
+    <file name="site_global.css" crc="3830688117"/>
+    <file name="master_a-master.css" crc="4059823804" ref="isports:lathalain:agham-at-teknolohiya:balita:index:opinyon"/>
+    <file name="isports.css" crc="3877634984" ref="isports"/>
+    <file name="lathalain.css" crc="3773842781" ref="lathalain"/>
+    <file name="agham-at-teknolohiya.css" crc="273025693" ref="agham-at-teknolohiya"/>
+    <file name="balita.css" crc="3858345919" ref="balita"/>
+    <file name="index.css" crc="3900338422" ref="index"/>
+    <file name="opinyon.css" crc="4277406861" ref="opinyon"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:balita:opinyon:lathalain:agham-at-teknolohiya:isports"/>
+    <file name="museutils.js" crc="4136605575" ref="index:balita:opinyon:lathalain:agham-at-teknolohiya:isports"/>
+    <file name="jquery.scrolleffects.js" crc="4183300935" ref="index:balita:opinyon:lathalain:agham-at-teknolohiya:isports"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:balita:opinyon:lathalain:agham-at-teknolohiya:isports"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:balita:opinyon:lathalain:agham-at-teknolohiya:isports"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:balita:opinyon:lathalain:agham-at-teknolohiya:isports"/>
+    <file name="pie.js" crc="3827607177" ref="opinyon"/>
+  </folder>
+  <folder name="images">
+    <file name="masthead.png" crc="3807173567" ref="index:agham-at-teknolohiya"/>
+    <file name="u1033-6.png" crc="3928789940" ref="index"/>
+    <file name="values2-crop-u1253.jpg" crc="3973813799" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1050_states.png" crc="31944673" ref="index"/>
+    <file name="u1050_states-r.png" crc="386691397" ref="index"/>
+    <file name="pasted image 1000x816-crop-u1089.jpg" crc="4173397128" ref="index"/>
+    <file name="pasted image 961x1000-crop-u1095.jpg" crc="49994583" ref="index"/>
+    <file name="u1056-4.png" crc="94926133" ref="index"/>
+    <file name="dsc01166_2.jpg" crc="270889369" ref="index"/>
+    <file name="pasted image 698x330.jpg" crc="3773331878" ref="index:balita"/>
+    <file name="u1169_states.png" crc="483027739" ref="index"/>
+    <file name="u1169_states-r.png" crc="4272177199" ref="index"/>
+    <file name="u1072-4.png" crc="3789581512" ref="index"/>
+    <file name="parangal hinakot ng seksyon rizal ang-crop-u1415.jpg" crc="113854506" ref="index"/>
+    <file name="u1075-4.png" crc="94926133" ref="index"/>
+    <file name="jeffrey 2-crop-u1119.jpg" crc="184086054" ref="index"/>
+    <file name="pasted image 803x688-crop-u1180.jpg" crc="499943178" ref="index"/>
+    <file name="u1210_states.png" crc="425223575" ref="index"/>
+    <file name="u1210_states-r.png" crc="4179719826" ref="index"/>
+    <file name="bb sports.jpg" crc="4107479144" ref="index"/>
+    <file name="u1194-4.png" crc="147397044" ref="index"/>
+    <file name="u1223-4.png" crc="4202860889" ref="index"/>
+    <file name="footer.png" crc="479006267" ref="index:balita:opinyon:lathalain:agham-at-teknolohiya:isports"/>
+    <file name="u1239-4-a.png" crc="273907227" ref="balita"/>
+    <file name="values2-crop-u1247.jpg" crc="3780745146" ref="balita"/>
+    <file name="u1246-6.png" crc="1994767" ref="balita"/>
+    <file name="img_5967-crop-u1318.jpg" crc="3780283636" ref="balita"/>
+    <file name="brigada-crop-u1275.jpg" crc="392360934" ref="balita"/>
+    <file name="brigada (2)-crop-u1307.jpg" crc="377033972" ref="balita"/>
+    <file name="dsc01412-crop-u1334.jpg" crc="3784621524" ref="balita"/>
+    <file name="dsc04778-crop-u1343.jpg" crc="4080815037" ref="balita"/>
+    <file name="_mg_2221-crop-u1365.jpg" crc="365986476" ref="balita"/>
+    <file name="maam nonie-crop-u1399.jpg" crc="182288109" ref="balita"/>
+    <file name="u1434-4-a.png" crc="4224999581" ref="opinyon"/>
+    <file name="cartoon-crop-u1437.jpg" crc="89450064" ref="opinyon"/>
+    <file name="u1436-8.png" crc="3982458652" ref="opinyon"/>
+    <file name="u1451-4.png" crc="133551941" ref="opinyon"/>
+    <file name="u1472-4.png" crc="307472175" ref="opinyon"/>
+    <file name="u1480-4-a.png" crc="35479113" ref="lathalain"/>
+    <file name="dsc01166.jpg" crc="127309187" ref="lathalain"/>
+    <file name="dsc01125.jpg" crc="487094583" ref="lathalain"/>
+    <file name="u1482-4.png" crc="4080420708" ref="lathalain"/>
+    <file name="dsc00993.jpg" crc="4087113133" ref="lathalain"/>
+    <file name="parangal hinakot ng seksyon rizal ang - copy.jpg" crc="508482454" ref="agham-at-teknolohiya"/>
+    <file name="u1546-4.png" crc="124172304" ref="agham-at-teknolohiya"/>
+    <file name="u1575-4-a.png" crc="48498247" ref="isports"/>
+    <file name="dsc01356.jpg" crc="4107479144" ref="isports"/>
+    <file name="u1577-6.png" crc="3791684678" ref="isports"/>
+    <file name="arnis (2)-crop-u1614.jpg" crc="4177643392" ref="isports"/>
+    <file name="cheer.jpg" crc="260295013" ref="isports"/>
+    <file name="u1626-4-a.png" crc="172705143" ref="agham-at-teknolohiya"/>
+  </folder>
+  <file name="index.html" crc="4115824145" mt="1423900889094" redirect="true"/>
+  <file name="balita.html" crc="3795772127" mt="1423896943998" redirect="true"/>
+  <file name="opinyon.html" crc="3897785180" mt="1423900501116" redirect="true"/>
+  <file name="lathalain.html" crc="4213420900" mt="1423897128630" redirect="true"/>
+  <file name="agham-at-teknolohiya.html" crc="273538196" mt="1423900825195" redirect="true"/>
+  <file name="isports.html" crc="391118603" mt="1423900554123" redirect="true"/>
+</manifest>
